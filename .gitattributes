@@ -1,0 +1,6 @@
+astra.npy filter=lfs diff=lfs merge=lfs -text
+images_pix.npy filter=lfs diff=lfs merge=lfs -text
+phantom.npy filter=lfs diff=lfs merge=lfs -text
+images_spline2.npy filter=lfs diff=lfs merge=lfs -text
+images_astra.npy filter=lfs diff=lfs merge=lfs -text
+images_spline1.npy filter=lfs diff=lfs merge=lfs -text
